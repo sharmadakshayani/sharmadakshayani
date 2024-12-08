@@ -1,6 +1,18 @@
-- 👋 Hi, I’m Dakshayani Sharma
-- 👀 I’m interested in applications of java and data structures. I like to apply the creative and critical side of mind to solve problems (yeah, trying for real world problems). 
-- 🌱 I’m currently learning front end development..
-- 📫 How to reach me: email: sharmadakshayani1211@gmail.com
-- 😄 Pronouns: She/Her
+## Getting Started
 
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
